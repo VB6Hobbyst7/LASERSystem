@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <configSections>
+    <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <section name="LASERSystem.My.MySettings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false"/>
+    </sectionGroup>
+  </configSections>
+  <connectionStrings/>
+  <startup useLegacyV2RuntimeActivationPolicy="true">
+    <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.7.2"/>
+  </startup>
+  <userSettings>
+    <LASERSystem.My.MySettings>
+      <setting name="DatabaseCNN" serializeAs="String">
+        <value />
+      </setting>
+      <setting name="SendSettlementEmail" serializeAs="String">
+        <value>False</value>
+      </setting>
+      <setting name="SendSettlementEmailHour" serializeAs="String">
+        <value>0</value>
+      </setting>
+      <setting name="DeliveredEmailtoT" serializeAs="String">
+        <value>False</value>
+      </setting>
+      <setting name="LastwrongLoginTime" serializeAs="String">
+        <value />
+      </setting>
+      <setting name="CountwrongLogins" serializeAs="String">
+        <value>0</value>
+      </setting>
+      <setting name="AdminEmail" serializeAs="String">
+        <value />
+      </setting>
+      <setting name="StickerPrinterName" serializeAs="String">
+        <value>Gainscha GS-2406T</value>
+      </setting>
+      <setting name="RepairStickerPrinterPaperName" serializeAs="String">
+        <value>Repair Label</value>
+      </setting>
+      <setting name="BillPrinterName" serializeAs="String">
+        <value>Zonerich AB-220K</value>
+      </setting>
+      <setting name="BillPrinterPaperName" serializeAs="String">
+        <value>297mm * User Defined</value>
+      </setting>
+      <setting name="StockStickerPaperName" serializeAs="String">
+        <value>Stock Label</value>
+      </setting>
+      <setting name="APIKey" serializeAs="String">
+        <value />
+      </setting>
+      <setting name="APIToken" serializeAs="String">
+        <value />
+      </setting>
+    </LASERSystem.My.MySettings>
+  </userSettings>
+</configuration>

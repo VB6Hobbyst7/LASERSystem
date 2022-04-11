@@ -1,0 +1,639 @@
+D:\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmCustomerLoan.resources
+D:\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmMessage.resources
+D:\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSalesRepair.resources
+D:\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmTechnicianSalary.resources
+D:\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmTechnicianLoan.resources
+D:\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmTechnician.resources
+D:\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmTechnicianCost.resources
+D:\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmDeliver.resources
+D:\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmProduct.resources
+D:\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmReceive.resources
+D:\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmRepair.resources
+D:\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSettlement.resources
+D:\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSearch.resources
+D:\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSupply.resources
+D:\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmReport.resources
+D:\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmCustomer.resources
+D:\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSale.resources
+D:\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmStock.resources
+D:\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmLogin.resources
+D:\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.mdifrmMain.resources
+D:\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.Resources.resources
+D:\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSupplier.resources
+D:\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSplash.resources
+D:\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.vbproj.GenerateResource.Cache
+D:\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.vbproj.ResolveComReference.cache
+D:\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\LASER System.exe.config
+D:\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\LASER System.exe
+D:\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\LASER System.pdb
+D:\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\LASER System.xml
+D:\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.exe
+D:\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.xml
+D:\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.pdb
+D:\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\FlashControlV71.dll
+D:\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.Shared.dll
+D:\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\ShockwaveFlashObjects.dll
+D:\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\stdole.dll
+D:\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+D:\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.vbprojAssemblyReference.cache
+D:\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.vbproj.CoreCompileInputs.cache
+D:\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.vbproj.CopyComplete
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\LASER System.exe.config
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\LASER System.exe
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\LASER System.pdb
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\LASER System.xml
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.Shared.dll
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\FlashControlV71.dll
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\ShockwaveFlashObjects.dll
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\stdole.dll
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.vbproj.ResolveComReference.cache
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmTechnicianSalary.resources
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmCustomerLoan.resources
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmMessage.resources
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSalesRepair.resources
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmTechnicianLoan.resources
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmTechnician.resources
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmTechnicianCost.resources
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmDeliver.resources
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmProduct.resources
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmReceive.resources
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmRepair.resources
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSettlement.resources
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSearch.resources
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSupply.resources
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmReport.resources
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmCustomer.resources
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSale.resources
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmStock.resources
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmLogin.resources
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.mdifrmMain.resources
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.Resources.resources
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSupplier.resources
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSplash.resources
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.vbproj.GenerateResource.cache
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.vbproj.CoreCompileInputs.cache
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.vbproj.CopyComplete
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.exe
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.xml
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.pdb
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.FrmSettings.resources
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\LASER System.exe.config
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\LASER System.exe
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\LASER System.pdb
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\LASER System.xml
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.Shared.dll
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\FlashControlV71.dll
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\AxShockwaveFlashObjects.dll
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\ShockwaveFlashObjects.dll
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\stdole.dll
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.vbprojAssemblyReference.cache
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.vbproj.ResolveComReference.cache
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmLoad.resources
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.FrmSettings.resources
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmTechnicianSalary.resources
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmCustomerLoan.resources
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmMessage.resources
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSalesRepair.resources
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmTechnicianLoan.resources
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmTechnician.resources
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmTechnicianCost.resources
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmDeliver.resources
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmProduct.resources
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmReceive.resources
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmRepair.resources
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSettlement.resources
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSearch.resources
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSupply.resources
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmReport.resources
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmCustomer.resources
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSale.resources
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmStock.resources
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmLogin.resources
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.MdifrmMain.resources
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.Resources.resources
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSupplier.resources
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.FrmSplash.resources
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.vbproj.GenerateResource.cache
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.vbproj.CoreCompileInputs.cache
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.vbproj.CopyComplete
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.exe
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.xml
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.pdb
+D:\Documents\LASER System (Dalugama)\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\LASER System.exe.config
+D:\Documents\LASER System (Dalugama)\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\LASER System.exe
+D:\Documents\LASER System (Dalugama)\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\LASER System.pdb
+D:\Documents\LASER System (Dalugama)\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\LASER System.xml
+D:\Documents\LASER System (Dalugama)\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Documents\LASER System (Dalugama)\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Documents\LASER System (Dalugama)\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.Shared.dll
+D:\Documents\LASER System (Dalugama)\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Documents\LASER System (Dalugama)\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\FlashControlV71.dll
+D:\Documents\LASER System (Dalugama)\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Documents\LASER System (Dalugama)\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Documents\LASER System (Dalugama)\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Documents\LASER System (Dalugama)\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Documents\LASER System (Dalugama)\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Documents\LASER System (Dalugama)\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Documents\LASER System (Dalugama)\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Documents\LASER System (Dalugama)\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Documents\LASER System (Dalugama)\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Documents\LASER System (Dalugama)\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Documents\LASER System (Dalugama)\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Documents\LASER System (Dalugama)\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Documents\LASER System (Dalugama)\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\ShockwaveFlashObjects.dll
+D:\Documents\LASER System (Dalugama)\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Documents\LASER System (Dalugama)\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\stdole.dll
+D:\Documents\LASER System (Dalugama)\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+D:\Documents\LASER System (Dalugama)\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.vbprojAssemblyReference.cache
+D:\Documents\LASER System (Dalugama)\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.vbproj.ResolveComReference.cache
+D:\Documents\LASER System (Dalugama)\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmLoad.resources
+D:\Documents\LASER System (Dalugama)\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.FrmSettings.resources
+D:\Documents\LASER System (Dalugama)\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmTechnicianSalary.resources
+D:\Documents\LASER System (Dalugama)\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmCustomerLoan.resources
+D:\Documents\LASER System (Dalugama)\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmMessage.resources
+D:\Documents\LASER System (Dalugama)\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSalesRepair.resources
+D:\Documents\LASER System (Dalugama)\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmTechnicianLoan.resources
+D:\Documents\LASER System (Dalugama)\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmTechnician.resources
+D:\Documents\LASER System (Dalugama)\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmTechnicianCost.resources
+D:\Documents\LASER System (Dalugama)\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmDeliver.resources
+D:\Documents\LASER System (Dalugama)\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmProduct.resources
+D:\Documents\LASER System (Dalugama)\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmReceive.resources
+D:\Documents\LASER System (Dalugama)\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmRepair.resources
+D:\Documents\LASER System (Dalugama)\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSettlement.resources
+D:\Documents\LASER System (Dalugama)\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSearch.resources
+D:\Documents\LASER System (Dalugama)\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSupply.resources
+D:\Documents\LASER System (Dalugama)\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmReport.resources
+D:\Documents\LASER System (Dalugama)\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmCustomer.resources
+D:\Documents\LASER System (Dalugama)\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSale.resources
+D:\Documents\LASER System (Dalugama)\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmStock.resources
+D:\Documents\LASER System (Dalugama)\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmLogin.resources
+D:\Documents\LASER System (Dalugama)\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.MdifrmMain.resources
+D:\Documents\LASER System (Dalugama)\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.Resources.resources
+D:\Documents\LASER System (Dalugama)\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSupplier.resources
+D:\Documents\LASER System (Dalugama)\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.FrmSplash.resources
+D:\Documents\LASER System (Dalugama)\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.vbproj.GenerateResource.cache
+D:\Documents\LASER System (Dalugama)\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.vbproj.CoreCompileInputs.cache
+D:\Documents\LASER System (Dalugama)\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.vbproj.CopyComplete
+D:\Documents\LASER System (Dalugama)\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.exe
+D:\Documents\LASER System (Dalugama)\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.xml
+D:\Documents\LASER System (Dalugama)\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.pdb
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\Newtonsoft.Json.xml
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\Newtonsoft.Json.dll
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\LASER System (Dalugama)\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\LASER System (Dalugama)\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\Newtonsoft.Json.xml
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\LASER System.exe.config
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\LASER System.exe
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\LASER System.pdb
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\LASER System.xml
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportSource.dll
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.Shared.dll
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.Windows.Forms.dll
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\FlashControlV71.dll
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\Newtonsoft.Json.dll
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\zxing.dll
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\zxing.presentation.dll
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\AxShockwaveFlashObjects.dll
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\ShockwaveFlashObjects.dll
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\stdole.dll
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\Newtonsoft.Json.xml
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\zxing.pdb
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\zxing.xml
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\zxing.presentation.pdb
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\zxing.presentation.xml
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.vbprojAssemblyReference.cache
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.vbproj.ResolveComReference.cache
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmLoad.resources
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.FrmSettings.resources
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmStockSticker.resources
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmTechnicianSalary.resources
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmCustomerLoan.resources
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmMessage.resources
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSalesRepair.resources
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmTechnicianLoan.resources
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmTechnician.resources
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmTechnicianCost.resources
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmDeliver.resources
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmProduct.resources
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmReceive.resources
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmRepair.resources
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSettlement.resources
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSearch.resources
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSupply.resources
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmReport.resources
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmCustomer.resources
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSale.resources
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmStock.resources
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmLogin.resources
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.MdifrmMain.resources
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.Resources.resources
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSupplier.resources
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.FrmSplash.resources
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.vbproj.GenerateResource.cache
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.vbproj.CoreCompileInputs.cache
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.vbproj.CopyComplete
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.exe
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.xml
+G:\New folder\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.pdb
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\zxing.dll
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\zxing.presentation.dll
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\zxing.xml
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\zxing.presentation.xml
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmStockSticker.resources
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\zxing.dll
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\zxing.presentation.dll
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\zxing.pdb
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\zxing.xml
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\zxing.presentation.pdb
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\zxing.presentation.xml
+D:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmStockSticker.resources
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\LASER System.exe.config
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\LASER System.exe
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\LASER System.pdb
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\LASER System.xml
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\Newtonsoft.Json.dll
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\zxing.dll
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\zxing.presentation.dll
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\stdole.dll
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\Newtonsoft.Json.xml
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\zxing.xml
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\zxing.presentation.xml
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.vbproj.ResolveComReference.cache
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.FrmSettings.resources
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmStockSticker.resources
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmTechnicianSalary.resources
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmCustomerLoan.resources
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmMessage.resources
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSalesRepair.resources
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmTechnicianLoan.resources
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmTechnician.resources
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmTechnicianCost.resources
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmDeliver.resources
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmProduct.resources
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmReceive.resources
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmRepair.resources
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSettlement.resources
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSearch.resources
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSupply.resources
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmReport.resources
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmCustomer.resources
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSale.resources
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmStock.resources
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmLogin.resources
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.MdifrmMain.resources
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.Resources.resources
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSupplier.resources
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.FrmSplash.resources
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.vbproj.GenerateResource.cache
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.vbproj.CoreCompileInputs.cache
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.vbproj.CopyComplete
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.exe
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.xml
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.pdb
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\LASER System.exe.config
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\LASER System.exe
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\LASER System.pdb
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\LASER System.xml
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.Shared.dll
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\FlashControlV71.dll
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\Newtonsoft.Json.dll
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\zxing.dll
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\zxing.presentation.dll
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\AxShockwaveFlashObjects.dll
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\ShockwaveFlashObjects.dll
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\stdole.dll
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\Newtonsoft.Json.xml
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\zxing.pdb
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\zxing.xml
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\zxing.presentation.pdb
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\zxing.presentation.xml
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.vbprojAssemblyReference.cache
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.vbproj.ResolveComReference.cache
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.FrmSettings.resources
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmStockSticker.resources
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmTechnicianSalary.resources
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmCustomerLoan.resources
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmMessage.resources
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSalesRepair.resources
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmTechnicianLoan.resources
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmTechnician.resources
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmTechnicianCost.resources
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmDeliver.resources
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmProduct.resources
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmReceive.resources
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmRepair.resources
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSettlement.resources
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSearch.resources
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSupply.resources
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmReport.resources
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmCustomer.resources
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSale.resources
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmStock.resources
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmLogin.resources
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.MdifrmMain.resources
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.Resources.resources
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSupplier.resources
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.FrmSplash.resources
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.vbproj.GenerateResource.cache
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.vbproj.CoreCompileInputs.cache
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.vbproj.CopyComplete
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.exe
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.xml
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.pdb
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\LASER System.exe.config
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\LASER System.exe
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\LASER System.pdb
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\LASER System.xml
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportSource.dll
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.Shared.dll
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.Windows.Forms.dll
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\FlashControlV71.dll
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\Newtonsoft.Json.dll
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\zxing.dll
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\zxing.presentation.dll
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\AxShockwaveFlashObjects.dll
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\ShockwaveFlashObjects.dll
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\stdole.dll
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\Newtonsoft.Json.xml
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\zxing.pdb
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\zxing.xml
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\zxing.presentation.pdb
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\zxing.presentation.xml
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.vbprojAssemblyReference.cache
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.vbproj.ResolveComReference.cache
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.FrmSettings.resources
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmStockSticker.resources
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmTechnicianSalary.resources
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmCustomerLoan.resources
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmMessage.resources
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSalesRepair.resources
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmTechnicianLoan.resources
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmTechnician.resources
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmTechnicianCost.resources
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmDeliver.resources
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmProduct.resources
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmReceive.resources
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmRepair.resources
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSettlement.resources
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSearch.resources
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSupply.resources
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmReport.resources
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmCustomer.resources
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSale.resources
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmStock.resources
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmLogin.resources
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.MdifrmMain.resources
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.Resources.resources
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSupplier.resources
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.FrmSplash.resources
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.vbproj.GenerateResource.cache
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.vbproj.CoreCompileInputs.cache
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.vbproj.CopyComplete
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.exe
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.xml
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.pdb
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmStockTransaction.resources
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmStockTransaction.resources
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\si\LASER System.resources.dll
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmStock.si.resources
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\si\LASER System.resources.dll
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\si\LASER System.resources.dll
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmStock.si.resources
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\si\LASER System.resources.dll
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\LASER System.exe.manifest
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\LASER System.application
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\si\LASER System.resources.dll
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmStockTransaction.resources
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmStock.si.resources
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\si\LASER System.resources.dll
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.TrustInfo.xml
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.exe.manifest
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.application
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.Shared.dll
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\AxShockwaveFlashObjects.dll
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\ShockwaveFlashObjects.dll
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\si\LASER System.resources.dll
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmStockTransaction.resources
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmStock.si.resources
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\si\LASER System.resources.dll
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.exe.licenses
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\Guna.UI2.dll
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\Guna.UI2.dll
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.exe.licenses
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSearchDropDown.resources
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSearchDropDown.resources
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.vbproj.AssemblyReference.cache
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\Guna.UI2.dll
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.exe.config
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSearchDropDown.resources
+G:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.exe.licenses
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\LASER System.exe.manifest
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\LASER System.application
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.TrustInfo.xml
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.exe.manifest
+F:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.application
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\LASER System.exe.manifest
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\LASER System.application
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.TrustInfo.xml
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.exe.manifest
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.application
+E:\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmDatagridviewTool.resources
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\LASER System.exe.config
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\LASER System.exe.manifest
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\LASER System.application
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\LASER System.exe
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\LASER System.pdb
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\LASER System.xml
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\si\LASER System.resources.dll
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.Shared.dll
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\Guna.UI2.dll
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\Newtonsoft.Json.dll
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\zxing.dll
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\zxing.presentation.dll
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\AxShockwaveFlashObjects.dll
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\ShockwaveFlashObjects.dll
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\stdole.dll
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\Newtonsoft.Json.xml
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\zxing.xml
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\zxing.presentation.xml
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.vbproj.ResolveComReference.cache
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmRepairAdvanced.resources
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.FrmSettings.resources
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmStockSticker.resources
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmStockTransaction.resources
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmTechnicianSalary.resources
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmCustomerLoan.resources
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmMessage.resources
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSalesRepair.resources
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmTechnicianLoan.resources
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmTechnician.resources
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmTechnicianCost.resources
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmDeliver.resources
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmProduct.resources
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmReceive.resources
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmRepair.resources
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSettlement.resources
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSearch.resources
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSupply.resources
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmReport.resources
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmCustomer.resources
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSale.resources
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmStock.resources
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmLogin.resources
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.MdifrmMain.resources
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.Resources.resources
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSupplier.resources
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.FrmSplash.resources
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmDatagridviewTool.resources
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSearchDropDown.resources
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmStock.si.resources
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.vbproj.GenerateResource.cache
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.exe.licenses
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.vbproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\si\LASER System.resources.dll
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.TrustInfo.xml
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.exe.manifest
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.application
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.exe
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.xml
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.pdb
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.vbproj.CopyComplete
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.vbproj.AssemblyReference.cache
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\log4net.dll
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\log4net.xml
+D:\OneDrive\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.vbproj.AssemblyReference.cache
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmRepairAdvanced.resources
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmDatagridviewTool.resources
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSearchDropDown.resources
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASER System.exe.licenses
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\Guna.UI2.dll
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\log4net.dll
+D:\Documents\LASER System (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\log4net.xml

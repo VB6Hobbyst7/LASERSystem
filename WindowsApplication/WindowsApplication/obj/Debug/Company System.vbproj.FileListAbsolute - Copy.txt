@@ -1,0 +1,28 @@
+C:\Users\Maleesha\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\Company System.vbprojResolveAssemblyReference.cache
+C:\Users\Maleesha\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\Company System.vbproj.GenerateResource.Cache
+C:\Users\Maleesha\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\LASERSystem.exe.config
+C:\Users\Maleesha\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\LASERSystem.exe
+C:\Users\Maleesha\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\LASERSystem.pdb
+C:\Users\Maleesha\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\bin\Debug\LASERSystem.xml
+C:\Users\Maleesha\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmTechnicion.resources
+C:\Users\Maleesha\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmTechnicionCost.resources
+C:\Users\Maleesha\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmDeliver.resources
+C:\Users\Maleesha\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmProduct.resources
+C:\Users\Maleesha\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmReceive.resources
+C:\Users\Maleesha\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmRepair.resources
+C:\Users\Maleesha\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSettlement.resources
+C:\Users\Maleesha\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSearch.resources
+C:\Users\Maleesha\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSupply.resources
+C:\Users\Maleesha\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmReport.resources
+C:\Users\Maleesha\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmCustomer.resources
+C:\Users\Maleesha\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSale.resources
+C:\Users\Maleesha\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmStock.resources
+C:\Users\Maleesha\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmLogin.resources
+C:\Users\Maleesha\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.mdifrmMain.resources
+C:\Users\Maleesha\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.Resources.resources
+C:\Users\Maleesha\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSupplier.resources
+C:\Users\Maleesha\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmSplash.resources
+C:\Users\Maleesha\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.exe
+C:\Users\Maleesha\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.xml
+C:\Users\Maleesha\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.pdb
+C:\Users\Maleesha\Documents\Company System (VS 2012)\Company System V1.1 (VS 2012)\WindowsApplication\WindowsApplication\obj\Debug\LASERSystem.frmTechnicionLoan.resources

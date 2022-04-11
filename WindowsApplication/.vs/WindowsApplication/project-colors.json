@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a235a792-472d-4768-b477-f13856010555": {
+      "ProjectGuid": "a235a792-472d-4768-b477-f13856010555",
+      "DisplayName": "LASER Background Tasks",
+      "ColorIndex": 0
+    },
+    "7fb9dce3-9000-4589-87cc-060b83472b18": {
+      "ProjectGuid": "7fb9dce3-9000-4589-87cc-060b83472b18",
+      "DisplayName": "LASER System",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

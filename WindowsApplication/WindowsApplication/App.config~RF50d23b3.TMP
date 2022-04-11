@@ -1,0 +1,55 @@
+﻿Imports System.IO
+Imports System.ComponentModel
+Imports CrystalDecisions.Shared
+Imports System.Net.Mail
+
+Public Class MdifrmMain
+    Private Sub mdifrmMain_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        System.Windows.Forms.Control.CheckForIllegalCrossThreadCalls = False
+        GetCNN()
+        MenuStrip.Items.Add(mnustrpMENU)
+    End Sub
+
+    Private Sub MdifrmMain_Closing(sender As Object, e As CancelEventArgs) Handles Me.Closing
+        CNN.Close()
+        BarCodePort.Close()
+        End
+    End Sub
+
+    Private Sub MdifrmMain_Resize(sender As Object, e As EventArgs) Handles Me.Resize
+        If Me.Width < 1000 Or Me.Height < 500 Then Exit Sub
+        If Me.Tag <> "Admin" Then
+            lblQtyRRepDetails.Visible = False
+            lblQtyRRetDetails.Visible = False
+            lblTodayIncomeDetails.Visible = False
+            lblQtyRRepNo.Visible = False
+            lblQtyRRetNo.Visible = False
+            lblTodayIncomeNo.Visible = False
+            txtActivity.Left = tabChart.Left
+        Else
+            txtActivity.Left = lblTodayIncomeNo.Left + lblTodayIncomeNo.Width + 5
+        End If
+        pnlLeft.Width = ((Me.Width - 15) * 3 / 5)
+        flpMessage.Left = pnlLeft.Left + pnlLeft.Width + 20
+        flpMessage.Width = Me.Width - flpMessage.Left - 20
+        imgRoundEdgeTop.Top = flpMessage.Top
+        imgRoundEdgeTop.Left = flpMessage.Left - imgRoundEdgeTop.Width
+        imgRoundEdgeTop.Height = 20
+        imgRoundEdgeBottom.Top = flpMessage.Top + flpMessage.Height - imgRoundEdgeBottom.Height
+        imgRoundEdgeBottom.Left = flpMessage.Left - imgRoundEdgeBottom.Width
+        imgRoundEdgeBottom.Height = 20
+        lblMessageLine.Left = flpMessage.Left - lblMessageLine.Width
+        lblMessageLine.Height = flpMessage.Height - 40
+        lblMessageLine.Top = imgRoundEdgeTop.Top + imgRoundEdgeTop.Height
+        tabChart.Width = pnlLeft.Width - tabChart.Left - 5
+        For Each controlObj As Control In flpMessage.Controls
+            controlObj.Width = flpMessage.Width - 30
+            For Each childControlObj As Control In controlObj.Controls
+                If childControlObj.Name.StartsWith("btnMessageDelete") Then childControlObj.Left = controlObj.Width - childControlObj.Width - 5
+                If childControlObj.Name.StartsWith("lblTitle") Then childControlObj.Width = controlObj.Width - 10
+                If childControlObj.Name.StartsWith("lblMessage") Then childControlObj.Width = controlObj.Width - 10
+            Next
+        Next
+    End Sub
+
+    Public Sub CmdStock_Click(sender As 

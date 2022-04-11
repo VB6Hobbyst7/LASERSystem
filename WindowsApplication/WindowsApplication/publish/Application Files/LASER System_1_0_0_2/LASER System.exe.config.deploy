@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <configSections>
+    <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+      <section name="LASERSystem.My.MySettings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+    </sectionGroup>
+  </configSections>
+  <connectionStrings />
+  <startup useLegacyV2RuntimeActivationPolicy="true">
+    <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.6.1" />
+  </startup>
+  <userSettings>
+    <LASERSystem.My.MySettings>
+      <setting name="DatabaseCNN" serializeAs="String">
+        <value>|DataDirectory|\Database.accdb</value>
+      </setting>
+      <setting name="APIKey" serializeAs="String">
+        <value />
+      </setting>
+      <setting name="APIToken" serializeAs="String">
+        <value />
+      </setting>
+      <setting name="BGSendSMS" serializeAs="String">
+        <value>OFF</value>
+      </setting>
+      <setting name="SendSettlementEmail" serializeAs="String">
+        <value>False</value>
+      </setting>
+      <setting name="SendSettlementEmailHour" serializeAs="String">
+        <value>0</value>
+      </setting>
+      <setting name="OnlineDBCNN" serializeAs="String">
+        <value />
+      </setting>
+      <setting name="DeliveredEmailtoT" serializeAs="String">
+        <value>False</value>
+      </setting>
+      <setting name="LastwrongLoginTime" serializeAs="String">
+        <value />
+      </setting>
+      <setting name="CountwrongLogins" serializeAs="String">
+        <value>0</value>
+      </setting>
+    </LASERSystem.My.MySettings>
+  </userSettings>
+</configuration>
