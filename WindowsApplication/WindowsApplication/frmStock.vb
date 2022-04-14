@@ -97,9 +97,9 @@ Public Class frmStock
     End Sub
 
     Private Sub bgwStock_DoWork(sender As Object, e As DoWorkEventArgs) Handles bgwStock.DoWork
-        'Try
-        Dim dt As New DataTable
-        Dim x As String = ""
+        Try
+            Dim dt As New DataTable
+            Dim x As String = ""
         grdStock.ScrollBars = ScrollBars.None
         grdStock.ClearSelection()
         If txtSearch.Text <> "" Then
@@ -140,25 +140,25 @@ Public Class frmStock
                 Exit Sub
             End If
             Try
-                Dim byteArray As Byte() = New Byte() {}
                 If File.Exists(Application.StartupPath & "\System Files\Images\" + "S-" + row("SNo").ToString + ".ls") = True Then
                     Dim imgStream As MemoryStream = New MemoryStream()
                     Dim img As Image = Image.FromFile(Application.StartupPath & "\System Files\Images\" + "S-" + row("SNo").ToString + ".ls")
                     img.Save(imgStream, System.Drawing.Imaging.ImageFormat.Png)
                     imgStream.Close()
-                    byteArray = imgStream.ToArray()
+                    Dim byteArray As Byte() = imgStream.ToArray()
+                Else
+                    row("SImage") = Nothing
                 End If
-                row(dt.Columns.Count - 1) = byteArray
             Catch ex As Exception
                 MsgBox(row(0).ToString + " හි Stock Image එකේ දෝෂයක් පවතියි." + vbCrLf +
                        "Error: " + ex.Message, vbCritical, "Error of Stock Image Section")
             End Try
             grdStock.Rows.Add(row("SNo").ToString, row("SCategory").ToString, row("SName").ToString, row("SModelNo").ToString, row("SLocation").ToString,
                           row("SCostPrice").ToString, row("SSalePrice").ToString, row("SAvailableStocks").ToString, row("SOutofStocks").ToString,
-                          row("SMinStocks").ToString, row("SDetails").ToString, row(dt.Columns.Count - 1))
+                          row("SMinStocks").ToString, row("SDetails").ToString,row("SImage"))
             If grdStock.Item("SImage", grdStock.Rows.Count - 2).Value IsNot Nothing Then grdStock.Rows.Item(grdStock.Rows.Count - 2).Height = 50
             If grdStock.Rows.Item(grdStock.Rows.Count - 2).Cells.Item("SAvailableStocks").Value <
-            grdStock.Rows.Item(grdStock.Rows.Count - 2).Cells.Item("SMinStocks").Value Then
+                grdStock.Rows.Item(grdStock.Rows.Count - 2).Cells.Item("SMinStocks").Value Then
                 grdStock.Item(7, (grdStock.Rows.Count - 2)).Style.BackColor = Color.Red
                 grdStock.Item(7, (grdStock.Rows.Count - 2)).Style.ForeColor = Color.White
             ElseIf grdStock.Rows.Item(grdStock.Rows.Count - 2).Cells.Item("SAvailableStocks").Value =
@@ -171,9 +171,9 @@ Public Class frmStock
             End If
         Next
         grdStock.Item("SImage", grdStock.Rows.Count - 1).Value = Nothing
-        'Catch ex As Exception
-        '    MsgBox(ex.Message, vbCritical)
-        'End Try
+        Catch ex As Exception
+        MsgBox(ex.Message, vbCritical)
+        End Try
     End Sub
 
     Private Sub bgwStock_RunWorkerCompleted(sender As Object, e As RunWorkerCompletedEventArgs) Handles bgwStock.RunWorkerCompleted

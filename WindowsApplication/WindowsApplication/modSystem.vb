@@ -13,17 +13,34 @@ Module modSystem
     Public DA As OleDb.OleDbDataAdapter
     Public DT As DataTable
     Public DS As DataSet
+    Public Simple As New Simple3Des("RandomKey45")
 
     Public Sub GetCNN()
         Try
-            Dim Simple As New Simple3Des("RandomKey45")
-            CNN = New OleDbConnection("Provider=Microsoft.ACE.OLEDB.12.0;Data Source=" & My.Settings.DatabaseCNN &
+            CNN = New OleDbConnection("Provider=" & My.Settings.DBProvider & ";Data Source=" & My.Settings.DatabaseCNN &
                                       ";Jet OLEDB:Database Password=" & Simple.Decode(My.Settings.DBPassword) & ";")
             CNN.Open()
         Catch ex As Exception
-            MsgBox("Message:   " + ex.Message + vbCrLf + "Please inform this error to developer for fixing",
-                   vbCritical + vbOKOnly, "LASER System - Database Issue")
+            If My.Settings.DBProvider = "" Then
+                MsgBox("Database Provider ඇතුලත් කර නොමැත.", vbCritical, "Database Provider Error")
+            ElseIf My.Settings.DatabaseCNN = "" Then
+                MsgBox("Database Path එක ඇතුලත් කර නොමැත.", vbCritical, "Database Path Error")
+            ElseIf My.Settings.DBPassword = "" Then
+                MsgBox("Database Password එක ඇතුලත් කර නොමැත.", vbCritical, "Database Password Error")
+            ElseIf File.Exists(My.Settings.DatabaseCNN) = False Then
+                MsgBox("Database Path එක සොයා ගැනීමට නොහැකි විය.", vbCritical, "Database Path Error")
+            Else
+                MsgBox("Message:   " + ex.Message + vbCrLf + "Please inform this error to developer for fixing",
+                   vbCritical, "LASER System - Database Issue")
+            End If
 
+            FrmSettings.tcSettings.TabPages.Remove(FrmSettings.tpDatabase)
+            FrmSettings.tcSettings.TabPages.Remove(FrmSettings.tpGeneral)
+            FrmSettings.tcSettings.TabPages.Remove(FrmSettings.tpUserAccount)
+            FrmSettings.tcSettings.TabPages.Remove(FrmSettings.tpPrinter)
+            FrmSettings.tcSettings.TabPages.Add(FrmSettings.tpDatabase)
+            FrmSettings.Tag = "Login"
+            FrmSettings.ShowDialog()
         End Try
     End Sub
 

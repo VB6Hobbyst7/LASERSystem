@@ -2,7 +2,7 @@
 Imports System.Net.Mail
 Public Class FrmSettings
     Public Sub FrmSettings_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        Dim Simple As New Simple3Des("RandomKey45")
+
         With My.Settings
             txtDBLoc.Text = .DatabaseCNN
             txtDBLoc.Tag = .DatabaseCNN
@@ -13,6 +13,7 @@ Public Class FrmSettings
             txtStickerRepairPaperName.Text = .RepairStickerPrinterPaperName
             txtBillPrinterName.Text = .BillPrinterName
             txtBillPaperName.Text = .BillPrinterPaperName
+            cmbDBProvider.Text = .DBProvider
 
             cmbBSCOMPort1_DropDown(sender, e)
             chkBSCOMMode.Checked = .BarcodeScannerCOMMode
@@ -35,7 +36,7 @@ Public Class FrmSettings
             MsgBox("This file name couldn't be found. Please select correct file for using a database", vbExclamation + vbOKOnly)
             Exit Sub
         End If
-        Dim Simple As New Simple3Des("RandomKey45")
+
         With My.Settings
             .DatabaseCNN = txtDBLoc.Text
             .SendSettlementEmail = chkMSetEmail.CheckState
@@ -50,6 +51,7 @@ Public Class FrmSettings
             .BarcodeScannerCOMPort1 = cmbBSCOMPort.Text
             .BarcodeScannerBaudRate = Int(txtBSBaudRate.Text)
             .DBPassword = Simple.Encode(txtDBPassword.Text)
+            .DBProvider = cmbDBProvider.Text
             .Save()
 
             MdifrmMain.BarCodePort.Close()
@@ -62,6 +64,10 @@ Public Class FrmSettings
                 End If
             End If
         End With
+
+        If Me.Tag = "Login" Then
+            GetCNN()
+        End If
     End Sub
 
     Private Sub cmdOK_Click(sender As Object, e As EventArgs) Handles cmdOK.Click

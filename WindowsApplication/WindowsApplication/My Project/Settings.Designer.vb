@@ -244,6 +244,18 @@ Namespace My
                 Me("DBPassword") = value
             End Set
         End Property
+        
+        <Global.System.Configuration.UserScopedSettingAttribute(),  _
+         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
+         Global.System.Configuration.DefaultSettingValueAttribute("Microsoft.ACE.OLEDB.12.0")>  _
+        Public Property DBProvider() As String
+            Get
+                Return CType(Me("DBProvider"),String)
+            End Get
+            Set
+                Me("DBProvider") = value
+            End Set
+        End Property
     End Class
 End Namespace
 

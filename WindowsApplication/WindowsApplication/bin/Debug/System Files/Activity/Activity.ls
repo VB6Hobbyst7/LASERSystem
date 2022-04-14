@@ -1411,3 +1411,33 @@ Security code: VGGFL','Waiting');
 2022-04-11 9:43:50 PM- Logon Successfull by Maleesha as a Cashier
 2022-04-11 9:49:02 PM- Logon Successfull by Maleesha as a Cashier
 2022-04-11 9:56:22 PM- Logon Successfull by Maleesha as a Cashier
+2022-04-14 9:01:37 PM- Logon Successfull by Maleesha as a Cashier
+2022-04-14 9:11:38 PM- Logon Successfull by Maleesha as a Cashier
+2022-04-14 9:15:01 PM- Logon Successfull by Maleesha as a Cashier
+2022-04-14 9:19:39 PM- Logon Successfull by Maleesha as a Cashier
+2022-04-14 9:31:26 PM- Logon Successfull by Maleesha as a Cashier
+2022-04-14 9:33:05 PM- Logon Successfull by Maleesha as a Cashier
+2022-04-14 9:35:20 PM- Logon Successfull by Maleesha as a Cashier
+2022-04-14 9:46:48 PM- Logon Successfull by Maleesha as a Cashier
+2022-04-14 9:57:02 PM- Logon Successfull by Maleesha as a Cashier
+2022-04-14 9:57:27 PM- Insert into TechnicianCost(TCNo,TNo,Rate,Qty,Total,UNo) Values(609,3,0,0,0,1)
+2022-04-14 9:57:27 PM- Update TechnicianCost set Qty=1 ,Total=850,TCDate=#2022-04-14 9:57:26 PM#,UNo=1 Where TCNo=609
+2022-04-14 9:57:27 PM- Update TechnicianCost set SNo=100 ,SCategory='LED Outdoor Light',SName='LED Outdoor Light 10W IP65/IP66 White',Rate=850,UNo=1 Where TCNo=609
+2022-04-14 9:57:59 PM- Update TechnicianCost set RepNo=1500 ,UNo=1 Where TCNo=609
+2022-04-14 9:58:04 PM- Update TechnicianCost set RetNo=1500 ,UNo=1 Where TCNo=609
+2022-04-14 10:15:31 PM- Logon Successfull by Maleesha as a Cashier
+2022-04-14 10:22:52 PM- Logon Successfull by Maleesha as a Cashier
+2022-04-14 10:23:51 PM- Insert into TechnicianCost(TCNo,TNo,Rate,Qty,Total,UNo) Values(610,5,0,0,0,1)
+2022-04-14 10:23:52 PM- Update TechnicianCost set Qty=1 ,Total=450,TCDate=#2022-04-14 10:23:51 PM#,UNo=1 Where TCNo=610
+2022-04-14 10:23:52 PM- Update TechnicianCost set SName='Adison 13A' ,SNo=617,SCategory='Plug Base',Rate=450,UNo=1 Where TCNo=610
+2022-04-14 10:25:29 PM- Insert into TechnicianCost(TCNo,TNo,Rate,Qty,Total,UNo) Values(611,5,0,0,0,1)
+2022-04-14 10:25:29 PM- Update TechnicianCost set Qty=1 ,Total=950,TCDate=#2022-04-14 10:25:29 PM#,UNo=1 Where TCNo=611
+2022-04-14 10:25:29 PM- Update TechnicianCost set SName='LG (Normal)' ,SNo=1337,SCategory='AC Remote',Rate=950,UNo=1 Where TCNo=611
+2022-04-14 10:25:33 PM- Update TechnicianCost set Rate=600 ,Total=600,UNo=1 Where TCNo=611
+2022-04-14 10:25:34 PM- Update TechnicianCost set Qty=2 ,Total=1200,UNo=1 Where TCNo=611
+2022-04-14 10:42:25 PM- Logon Successfull by Maleesha as a Cashier
+2022-04-14 10:44:40 PM- Logon Successfull by Maleesha as a Cashier
+2022-04-14 11:13:27 PM- Insert Into TechnicianLoan(TLNo,TNo,TLDate,SNo,TLReason,Rate,Qty,Total,UNo) Values(85,5,#2022-04-14 11:13:27 PM#,1170,'',244.8,1,244.8,'1')
+2022-04-14 11:27:31 PM- Logon Successfull by Maleesha as a Cashier
+2022-04-14 11:29:04 PM- Insert Into TechnicianLoan(TLNo,TNo,TLDate,TLReason,Total,UNo) Values(86,1,#2022-04-14 11:29:04 PM#,'This is example...',100,'1')
+2022-04-14 11:29:58 PM- Insert Into TechnicianLoan(TLNo,TNo,TLDate,SNo,SCategory,SName,TLReason,Rate,Qty,Total,UNo) Values(87,1,#2022-04-14 11:29:58 PM#,1170,'LED Bulb','Luminar 3W Day Pin','',272,1,272,'1')

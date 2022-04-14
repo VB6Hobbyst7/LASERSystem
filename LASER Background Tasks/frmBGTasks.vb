@@ -17,6 +17,7 @@ Public Class frmBGTasks
     Private CNNBG As OleDbConnection
     Private CMDBG1, CMDBG2 As New OleDbCommand
     Private DRBG1, DRBG2 As OleDbDataReader
+    Private Simple As New Simple3Des("RandomKey45")
     Public Sub New()
 
         Me.Hide()
@@ -32,7 +33,7 @@ Public Class frmBGTasks
             End
         End If
         ' Add any initialization after the InitializeComponent() call.
-        Dim Simple As New Simple3Des("RandomKey45")
+
         With My.Settings
             txtDBLocation.Text = .DatabaseCNN
             txtDBLocation.Tag = .DatabaseCNN
@@ -193,7 +194,7 @@ Public Class frmBGTasks
         End Try
 
         If CheckForInternetConnection() = False Then Exit Sub
-        Dim Simple As New Simple3Des("RandomKey45")
+
         tslblLoad.Text = "Sending Emails...."
         Try
             For Each controlObject As Control In flpMessage.Controls
@@ -566,7 +567,6 @@ Public Class frmBGTasks
 
             lblBGLoad.Text = "Applying Commands from Online Database to Local DB..."
             Dim client As New WebClient
-            Dim Simple As New Simple3Des("RandomKey45")
 
             ServicePointManager.SecurityProtocol = SecurityProtocolType.Tls12
             client.Headers.Add("user-agent", My.Settings.UserAgent)
@@ -771,8 +771,11 @@ Public Class frmBGTasks
     End Function
     Public Sub GetCNN()
         Try
+
             If File.Exists(My.Settings.DatabaseCNN) Then
-                CNNBG = New OleDbConnection("Provider=Microsoft.ACE.OLEDB.12.0;Data Source=" & My.Settings.DatabaseCNN & ";Jet OLEDB:Database Password=Rodrigo50814109@;")
+                CNNBG = New OleDbConnection("Provider=Microsoft.ACE.OLEDB.12.0;Data Source=" &
+                                            My.Settings.DatabaseCNN & ";Jet OLEDB:Database Password=" &
+                                            Simple.Decode(My.Settings.DbPassword) & ";")
                 If CNNBG.State = ConnectionState.Closed Then
                     CNNBG.Open()
                 End If
@@ -1201,7 +1204,6 @@ Public Class frmBGTasks
                 Exit Sub
             End If
         End If
-        Dim Simple As New Simple3Des("RandomKey45")
         With My.Settings
             .DatabaseCNN = txtDBLocation.Text
             .APIKey = txtMApiKey.Text

@@ -225,6 +225,7 @@ Partial Class frmTechnicianLoan
         '
         'txtTLSubTotal
         '
+        Me.txtTLSubTotal.Enabled = False
         Me.txtTLSubTotal.Font = New System.Drawing.Font("Calibri", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.txtTLSubTotal.Location = New System.Drawing.Point(129, 537)
         Me.txtTLSubTotal.Name = "txtTLSubTotal"
@@ -401,8 +402,6 @@ Partial Class frmTechnicianLoan
         '
         'cmbSName
         '
-        Me.cmbSName.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.Suggest
-        Me.cmbSName.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.CustomSource
         Me.cmbSName.Font = New System.Drawing.Font("Calibri", 10.0!)
         Me.cmbSName.FormattingEnabled = True
         Me.cmbSName.Location = New System.Drawing.Point(80, 49)
@@ -412,8 +411,6 @@ Partial Class frmTechnicianLoan
         '
         'cmbSCategory
         '
-        Me.cmbSCategory.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.Suggest
-        Me.cmbSCategory.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.CustomSource
         Me.cmbSCategory.Font = New System.Drawing.Font("Calibri", 10.0!)
         Me.cmbSCategory.FormattingEnabled = True
         Me.cmbSCategory.Location = New System.Drawing.Point(80, 20)
@@ -453,6 +450,7 @@ Partial Class frmTechnicianLoan
         '
         'cmdTLDelete
         '
+        Me.cmdTLDelete.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.cmdTLDelete.Font = New System.Drawing.Font("Calibri", 10.0!)
         Me.cmdTLDelete.Image = Global.LASERSystem.My.Resources.Resources.Delete
         Me.cmdTLDelete.Location = New System.Drawing.Point(804, 128)
@@ -465,6 +463,7 @@ Partial Class frmTechnicianLoan
         '
         'cmdTLNew
         '
+        Me.cmdTLNew.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.cmdTLNew.Font = New System.Drawing.Font("Calibri", 10.0!)
         Me.cmdTLNew.Image = Global.LASERSystem.My.Resources.Resources._new
         Me.cmdTLNew.Location = New System.Drawing.Point(804, 40)
@@ -477,6 +476,7 @@ Partial Class frmTechnicianLoan
         '
         'cmdTLSave
         '
+        Me.cmdTLSave.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.cmdTLSave.Font = New System.Drawing.Font("Calibri", 10.0!)
         Me.cmdTLSave.Image = Global.LASERSystem.My.Resources.Resources.Save
         Me.cmdTLSave.Location = New System.Drawing.Point(804, 85)
@@ -489,6 +489,7 @@ Partial Class frmTechnicianLoan
         '
         'cmdTLClose
         '
+        Me.cmdTLClose.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.cmdTLClose.Font = New System.Drawing.Font("Calibri", 10.0!)
         Me.cmdTLClose.Image = Global.LASERSystem.My.Resources.Resources.close
         Me.cmdTLClose.Location = New System.Drawing.Point(804, 173)
@@ -530,28 +531,28 @@ Partial Class frmTechnicianLoan
         '
         Me.NewToolStripMenuItem.Name = "NewToolStripMenuItem"
         Me.NewToolStripMenuItem.ShortcutKeys = CType((System.Windows.Forms.Keys.Control Or System.Windows.Forms.Keys.N), System.Windows.Forms.Keys)
-        Me.NewToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
+        Me.NewToolStripMenuItem.Size = New System.Drawing.Size(149, 22)
         Me.NewToolStripMenuItem.Text = "&New"
         '
         'SaveToolStripMenuItem
         '
         Me.SaveToolStripMenuItem.Name = "SaveToolStripMenuItem"
         Me.SaveToolStripMenuItem.ShortcutKeys = CType((System.Windows.Forms.Keys.Control Or System.Windows.Forms.Keys.S), System.Windows.Forms.Keys)
-        Me.SaveToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
+        Me.SaveToolStripMenuItem.Size = New System.Drawing.Size(149, 22)
         Me.SaveToolStripMenuItem.Text = "&Save"
         '
         'DeleteToolStripMenuItem
         '
         Me.DeleteToolStripMenuItem.Name = "DeleteToolStripMenuItem"
         Me.DeleteToolStripMenuItem.ShortcutKeys = CType((System.Windows.Forms.Keys.Control Or System.Windows.Forms.Keys.D), System.Windows.Forms.Keys)
-        Me.DeleteToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
+        Me.DeleteToolStripMenuItem.Size = New System.Drawing.Size(149, 22)
         Me.DeleteToolStripMenuItem.Text = "&Delete"
         '
         'CloseToolStripMenuItem
         '
         Me.CloseToolStripMenuItem.Name = "CloseToolStripMenuItem"
         Me.CloseToolStripMenuItem.ShortcutKeys = CType((System.Windows.Forms.Keys.Alt Or System.Windows.Forms.Keys.F4), System.Windows.Forms.Keys)
-        Me.CloseToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
+        Me.CloseToolStripMenuItem.Size = New System.Drawing.Size(149, 22)
         Me.CloseToolStripMenuItem.Text = "Close"
         '
         'VIEWToolStripMenuItem

@@ -32,15 +32,14 @@ Public Class frmTechnicianCost
             Exit Sub
         End If
         CMD = New OleDbCommand("Select TCNo,TCDate,RepNo,RetNo,TCRemarks,SNo,SCategory,SName,Rate, Qty,Total,UserName from " &
-                                             "((TechnicianCost TC Inner Join Technician T On T.Tno = TC.TNo) Left Join [User] U ON U.Uno = TC.UNo) where TName='" &
-                                             cmbTName.Text & "' And TCDate BETWEEN #" & Format(txtTCFrom.Value, "yyyy-MM-dd") & " 00:00:00# And #" &
-                                            Format(txtTCTo.Value, "yyyy-MM-dd") & " 23:59:59#" &
-                                            If(txtSearch.Text <> "",
-                                            " And (TCDate Like '%" & txtSearch.Text & "%' or TCRemarks Like '%" & txtSearch.Text & "%' or " &
-                                            "SNo Like '%" & txtSearch.Text & "%' or SCategory Like '%" & txtSearch.Text & "%' or SName Like '%" &
-                                            txtSearch.Text & "%' or Rate Like '%" & txtSearch.Text & "%' or Qty Like '%" & txtSearch.Text & "%' or " &
-                                            "Total Like '%" & txtSearch.Text & "%' or UserName Like '%" & txtSearch.Text & "%'",
-                                            "") & ";", CNN)
+                                "((TechnicianCost TC Inner Join Technician T On T.Tno = TC.TNo) Left Join [User] U ON U.Uno = TC.UNo) where TName='" &
+                                cmbTName.Text & "' And TCDate BETWEEN #" & Format(txtTCFrom.Value, "yyyy-MM-dd") & " 00:00:00# And #" &
+                                Format(txtTCTo.Value, "yyyy-MM-dd") & " 23:59:59#" &
+                                If(txtSearch.Text <> "",
+                                " And (TCDate Like '%" & txtSearch.Text & "%' or TCRemarks Like '%" & txtSearch.Text & "%' or " &
+                                "SNo Like '%" & txtSearch.Text & "%' or SCategory Like '%" & txtSearch.Text & "%' or SName Like '%" &
+                                txtSearch.Text & "%' or Rate Like '%" & txtSearch.Text & "%' or Qty Like '%" & txtSearch.Text & "%' or " &
+                                "Total Like '%" & txtSearch.Text & "%' or UserName Like '%" & txtSearch.Text & "%')", "") & ";", CNN)
         DR = CMD.ExecuteReader
         grdTechnicianCost.Rows.Clear()
         While DR.Read
@@ -185,6 +184,12 @@ Public Class frmTechnicianCost
                 Else
                     grdTechnicianCost.Item(7, e.RowIndex).Value = "0"
                 End If
+            Case 9
+                grdTechnicianCost.Item(10, e.RowIndex).Value = ""
+                tmp += ",RepNo=NULL"
+            Case 10
+                grdTechnicianCost.Item(9, e.RowIndex).Value = ""
+                tmp += ",RetNo=NULL"
         End Select
         If grdTechnicianCost.Item(e.ColumnIndex, e.RowIndex).Tag = grdTechnicianCost.Item(e.ColumnIndex, e.RowIndex).Value Then
             Exit Sub
@@ -224,6 +229,7 @@ Public Class frmTechnicianCost
                           grdTechnicianCost.Item(0, e.RowIndex).Value, AdminSend, Remarks)
         End Select
         grdTechnicianCost.Item(e.ColumnIndex, e.RowIndex).Tag = ""
+        cmdTCSearch_Click(sender, e)
     End Sub
 
     Private Sub grdTechnicianCost_UserDeletingRow(sender As Object, e As DataGridViewRowCancelEventArgs) Handles grdTechnicianCost.UserDeletingRow

@@ -15,21 +15,8 @@ Public Class frmLogin
     Private Sub FrmLogin_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         System.Diagnostics.Process.GetCurrentProcess().PriorityClass = System.Diagnostics.ProcessPriorityClass.High
         If My.Settings.DatabaseCNN = "" Then My.Settings.DatabaseCNN = Application.StartupPath + "\Database.accdb"
-        If File.Exists(My.Settings.DatabaseCNN) = False Then
-            MsgBox("Database couldn't be found. Please select the database!", vbCritical + vbOKOnly)
-            FrmSettings.tcSettings.TabPages.Remove(FrmSettings.tpDatabase)
-            FrmSettings.tcSettings.TabPages.Remove(FrmSettings.tpGeneral)
-            FrmSettings.tcSettings.TabPages.Remove(FrmSettings.tpUserAccount)
-            FrmSettings.tcSettings.TabPages.Remove(FrmSettings.tpPrinter)
-            FrmSettings.tcSettings.TabPages.Add(FrmSettings.tpDatabase)
-            FrmSettings.Tag = "Login"
-            FrmSettings.ShowDialog()
-            Me.Close()
-            Exit Sub
-        End If
-        CNN = New OleDbConnection("Provider=Microsoft.ACE.OLEDB.12.0;Data Source=" & My.Settings.DatabaseCNN &
-                                  ";Jet OLEDB:Database Password=Rodrigo50814109@;")
-        CNN.Open()
+        If My.Settings.DBPassword = "" Then My.Settings.DBPassword = "/CiDhN0RE7ogLrZ7JyJIGHgx8FV+iuIqCmLeeYXy8a/zeSQjc4NyUQ=="
+        GetCNN()
         Me.AcceptButton = cmdLogin
         cmbUserName_DropDown(sender, e)
         CMD = New OleDbCommand("Select Top 1 UserName from [User] Order by LastLogin Desc;", CNN)

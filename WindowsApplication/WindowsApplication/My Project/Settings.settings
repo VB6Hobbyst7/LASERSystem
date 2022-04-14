@@ -50,5 +50,8 @@
     <Setting Name="DBPassword" Type="System.String" Scope="User">
       <Value Profile="(Default)" />
     </Setting>
+    <Setting Name="DBProvider" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Microsoft.ACE.OLEDB.12.0</Value>
+    </Setting>
   </Settings>
 </SettingsFile>

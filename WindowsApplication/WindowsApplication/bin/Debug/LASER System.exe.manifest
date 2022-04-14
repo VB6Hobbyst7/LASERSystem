@@ -4,7 +4,7 @@
   <description asmv2:iconFile="favicon.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="LASER System" version="1.0.8136.39463" language="neutral" processorArchitecture="amd64" />
+    <assemblyIdentity name="LASER System" version="1.0.8139.42214" language="neutral" processorArchitecture="amd64" />
     <commandLine file="LASER System.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -271,26 +271,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="LASER System.exe" size="5680640">
-      <assemblyIdentity name="LASER System" version="1.0.8136.39463" language="neutral" processorArchitecture="amd64" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="LASER System.exe" size="5682176">
+      <assemblyIdentity name="LASER System" version="1.0.8139.42214" language="neutral" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>5rYgcoYBROIYrq4c/m7btMxbpPh/89wVpIFsDDd/LLI=</dsig:DigestValue>
+        <dsig:DigestValue>KjHCFb5MkygOXzR/CLpTqSE9cnbuzz1GE5p+NRvBJ3A=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="si\LASER System.resources.dll" size="30720">
-      <assemblyIdentity name="LASER System.resources" version="1.0.8136.39463" language="si" processorArchitecture="amd64" />
+      <assemblyIdentity name="LASER System.resources" version="1.0.8139.42214" language="si" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>KVQFdUHDzR+Z4E9TB8AMnxMpE+elOPl2Pv8iI7W0zQ4=</dsig:DigestValue>
+        <dsig:DigestValue>rGU37WH45dsrVCvrZe8Yr+BKw4zFN2C1yadJ2N+A5zg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -387,13 +387,13 @@
       <dsig:DigestValue>x5tmJrkePq1dUKxmzBo6+Tn7Lf+dIE3Y7eZzeBEs4co=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="LASER System.exe.config" size="2511">
+  <file name="LASER System.exe.config" size="2727">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>c6xmYb3X5WsJJeDgDQM4VWyYyTrjEnpxEpFgdnxLRUA=</dsig:DigestValue>
+      <dsig:DigestValue>ap/tqPFy41BhXg4DSNtIjdI7gA+MVJqaiMnesiyk2q4=</dsig:DigestValue>
     </hash>
   </file>
   <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">

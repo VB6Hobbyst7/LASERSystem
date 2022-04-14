@@ -52,7 +52,6 @@ Partial Class frmStock
         Me.SName = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.SModelNo = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.SLocation = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.AdminCostPrice = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.SCostPrice = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.SSalePrice = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.SAvailableStocks = New System.Windows.Forms.DataGridViewTextBoxColumn()
@@ -170,7 +169,7 @@ Partial Class frmStock
         DataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
         Me.grdStock.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle1
         Me.grdStock.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.grdStock.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.SNo, Me.SCategory, Me.SName, Me.SModelNo, Me.SLocation, Me.AdminCostPrice, Me.SCostPrice, Me.SSalePrice, Me.SAvailableStocks, Me.SOutofstocks, Me.SMinStocks, Me.SDetails, Me.SImage})
+        Me.grdStock.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.SNo, Me.SCategory, Me.SName, Me.SModelNo, Me.SLocation, Me.SCostPrice, Me.SSalePrice, Me.SAvailableStocks, Me.SOutofstocks, Me.SMinStocks, Me.SDetails, Me.SImage})
         DataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle4.BackColor = System.Drawing.Color.White
         DataGridViewCellStyle4.Font = New System.Drawing.Font("Calibri", 9.75!)
@@ -309,14 +308,6 @@ Partial Class frmStock
         Me.SLocation.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable
         Me.SLocation.Width = 59
         '
-        'AdminCostPrice
-        '
-        Me.AdminCostPrice.DataPropertyName = "SAdminCostPrice"
-        Me.AdminCostPrice.HeaderText = "Admin Cost Price"
-        Me.AdminCostPrice.Name = "AdminCostPrice"
-        Me.AdminCostPrice.Visible = False
-        Me.AdminCostPrice.Width = 125
-        '
         'SCostPrice
         '
         Me.SCostPrice.DataPropertyName = "SCostPrice"
@@ -421,7 +412,6 @@ Partial Class frmStock
     Friend WithEvents SName As DataGridViewTextBoxColumn
     Friend WithEvents SModelNo As DataGridViewTextBoxColumn
     Friend WithEvents SLocation As DataGridViewTextBoxColumn
-    Friend WithEvents AdminCostPrice As DataGridViewTextBoxColumn
     Friend WithEvents SCostPrice As DataGridViewTextBoxColumn
     Friend WithEvents SSalePrice As DataGridViewTextBoxColumn
     Friend WithEvents SAvailableStocks As DataGridViewTextBoxColumn

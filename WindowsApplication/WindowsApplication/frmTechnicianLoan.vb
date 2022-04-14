@@ -7,9 +7,6 @@
         txtTLFrom.Value = "" & Date.Today.Year & "-" & Date.Today.Month & "-01"
         txtTLTo.Value = Date.Today
         Call cmdTLSearch_Click(sender, e)
-        If MdifrmMain.Tag <> "Admin" Then
-            txtTLDate.Enabled = False
-        End If
         cmbSCategory_DropDown(sender, e)
         cmbSName_DropDown(sender, e)
         cmbTName_DropDown(sender, e)
@@ -30,8 +27,8 @@
             Exit Sub
         End If
         Dim da As New OleDb.OleDbDataAdapter("Select TLNo as [Technician Loan No],TLDate as [Date],SCategory as [Stock Category],SName as [Stock Name],TLReason as [Reason]," &
-                                             "Rate,Qty,Total from ((TechnicianLoan Inner Join Technician On Technician.TNO = TechnicianLoan.TNo) Left Join Stock ON Stock.SNo " &
-                                             "= TechnicianLoan.SNo) where TName='" & cmbTName.Text & "' and TLDate BETWEEN #" & txtTLFrom.Value.Date & " 00:00:00# AND #" &
+                                             "Rate,Qty,Total from (TechnicianLoan Inner Join Technician On Technician.TNO = TechnicianLoan.TNo) " &
+                                             "where TName='" & cmbTName.Text & "' and TLDate BETWEEN #" & txtTLFrom.Value.Date & " 00:00:00# AND #" &
                                              txtTLTo.Value.Date & " 23:59:59#", CNN)
         da.Fill(dt)
         Me.grdTLSearch.DataSource = dt
@@ -50,18 +47,6 @@
         Call cmdTLSearch_Click(sender, e)
     End Sub
 
-    Private Sub frmTechnicianLoan_Resize(sender As Object, e As EventArgs) Handles Me.Resize
-        If Me.Height > 650 And Me.Width > 640 Then
-            cmdTLClose.Left = Int(Me.Width) - Int(cmdTLClose.Width) - 30
-            boxItem.Width = Int(Me.Width) - 42
-            grdTLSearch.Width = Int(boxItem.Width) - 15
-            boxItem.Height = Int(Me.Height) - Int(boxItem.Top) - 50
-            txtTLSubTotal.Top = Int(boxItem.Height) - Int(txtTLSubTotal.Height) - 10
-            lblTLSubTotal.Top = txtTLSubTotal.Top
-            grdTLSearch.Height = Int(boxItem.Height) - Int(grdTLSearch.Top) - Int(txtTLSubTotal.Height) - 15
-        End If
-    End Sub
-
     Private Sub cmdTLSave_Click(sender As Object, e As EventArgs) Handles cmdTLSave.Click
         If CheckEmptyfieldtxt(txtTLAmount, "Amount Field එක හිස්ව පවතියි. කරුණාකර එය සම්පූර්ණ කරන්න.") = False Then
             Exit Sub
@@ -71,24 +56,35 @@
             MsgBox("ඔබ හේතුවක් හෝ Stock එකක් ඇතුලත් කර නොමැත. කරුණාකර නැවත පරික්ෂා කරන්න.")
             Exit Sub
         End If
+        Dim AdminSend As Boolean = False
+        If MdifrmMain.tslblUserType.Text <> "Admin" And txtTLDate.Value.Date <> Today.Date Then AdminSend = True
         If txtTLDate.Value.Date = Today.Date Then txtTLDate.Value = DateAndTime.Now
-        Dim TNo As Integer
-        CMD = New OleDb.OleDbCommand("Select TNo,TName from Technician where TName='" & cmbTName.Text & "'", CNN)
-        DR = CMD.ExecuteReader
-        If DR.HasRows = True Then
-            DR.Read()
-            TNo = DR("TNo").ToString
+        Dim TNo As Integer = Int(GetStrfromRelatedfield("Select TNo,TName from Technician where TName='" &
+                                                        cmbTName.Text & "'", "TNo"))
+        If cmdTLSave.Text = "Save" Then
+            If txtSNo.Text <> "" Then
+                CMDUPDATE("Insert Into TechnicianLoan(TLNo,TNo,TLDate,SNo,SCategory,SName,TLReason,Rate,Qty,Total,UNo) " &
+                        "Values(" & txtTLNo.Text & "," & TNo & ",#" & txtTLDate.Value & "#," & txtSNo.Text & ",'" &
+                        cmbSCategory.Text & "','" & cmbSName.Text & "','" & txtTLReason.Text &
+                        "'," & txtSUnitPrice.Text & "," & txtSQty.Text & "," & txtTLAmount.Text & ",'" & MdifrmMain.Tag & "')", AdminSend)
+            Else
+                CMDUPDATE("Insert Into TechnicianLoan(TLNo,TNo,TLDate,TLReason,Total,UNo) " &
+                        "Values(" & txtTLNo.Text & "," & TNo & ",#" & txtTLDate.Value & "#,'" & txtTLReason.Text & "'," &
+                        txtTLAmount.Text & ",'" & MdifrmMain.Tag & "')", AdminSend)
+            End If
+            MsgBox("Save Successfull!", vbExclamation + vbOKOnly)
+        ElseIf cmdTLSave.Text = "Edit" Then
+            CMDUPDATE("Update TechnicianCost Set TNo=" & TNo &
+                      ",TLDate=#" & txtTLDate.Value &
+                      "#,SNo=" & txtSNo.Text &
+                      ",SCategory='" & cmbSCategory.Text &
+                      "',SName='" & cmbSName.Text &
+                      "',TLReason='" & txtTLReason.Text &
+                      "',Rate=" & txtSUnitPrice.Text &
+                      ",Qty=" & txtSQty.Text &
+                      ",Total=" & txtTLAmount.Text &
+                      ",UNo=" & MdifrmMain.Tag, AdminSend)
         End If
-        If txtSNo.Text <> "" Then
-            CMDUPDATE("Insert Into TechnicianLoan(TLNo,TNo,TLDate,SNo,TLReason,Rate,Qty,Total,UNo) " &
-                                         "Values(" & txtTLNo.Text & "," & TNo & ",#" & txtTLDate.Value & "#," & txtSNo.Text & ",'" & txtTLReason.Text &
-                                         "'," & txtSUnitPrice.Text & "," & txtSQty.Text & "," & txtTLAmount.Text & ",'" & MdifrmMain.Tag & "')")
-        Else
-            CMDUPDATE("Insert Into TechnicianLoan(TLNo,TNo,TLDate,TLReason,Total,UNo) " &
-                                         "Values(" & txtTLNo.Text & "," & TNo & ",#" & txtTLDate.Value & "#,'" & txtTLReason.Text & "'," &
-                                         txtTLAmount.Text & ",'" & MdifrmMain.Tag & "')")
-        End If
-        MsgBox("Save Successfull!", vbExclamation + vbOKOnly)
         Call AutomaticPrimaryKey(txtTLNo, "SELECT top 1 TLNo from TechnicianLoan ORDER BY TLNo Desc;", "TLNo")
         cmbSCategory.Text = ""
         cmbSName.Text = ""
@@ -112,6 +108,8 @@
         txtSUnitPrice.Text = ""
         txtTLAmount.Text = ""
         txtTLReason.Text = ""
+        cmdTLSave.Text = "Save"
+        cmdTLDelete.Enabled = False
         Call cmdTLSearch_Click(sender, e)
     End Sub
 
@@ -129,7 +127,7 @@
         If DR.HasRows = True Then
             DR.Read()
             txtSNo.Text = DR("SNo").ToString
-            txtSUnitPrice.Text = Val(DR("SSAlePRice").ToString) * 0.9
+            txtSUnitPrice.Text = Val(DR("SSAlePRice").ToString)
             txtSQty.Text = "1"
         Else
             txtSNo.Text = ""
@@ -161,10 +159,6 @@
 
     Private Sub txtSQty_KeyPress(sender As Object, e As KeyPressEventArgs) Handles txtSQty.KeyPress
         OnlynumberQty(e)
-    End Sub
-
-    Private Sub txtTLAmount_TextChanged(sender As Object, e As EventArgs) Handles txtTLAmount.TextChanged
-
     End Sub
 
     Private Sub txtTLAmount_KeyPress(sender As Object, e As KeyPressEventArgs) Handles txtTLAmount.KeyPress
@@ -293,6 +287,8 @@
                     CMDUPDATE("DELETE from TechnicianCost where TCNo=" & txtTLNo.Text)       'delete data from stocksale 
                 End If
             End If
+        Else
+            MsgBox("අදාල Technician Load දත්තය Database එක තුලට ඇතුලත් කර නොමැත.", vbCritical)
         End If
         cmdTLNew_Click(sender, e)
         cmdTLSearch_Click(sender, e)
@@ -302,4 +298,16 @@
         cmbSName.Text = ""
     End Sub
 
+    Private Sub grdTLSearch_CellDoubleClick(sender As Object, e As DataGridViewCellEventArgs) Handles grdTLSearch.CellDoubleClick
+        If e.RowIndex > -1 Or e.RowIndex > grdTLSearch.Rows.Count Then Exit Sub
+        txtTLNo.Text = grdTLSearch.Item(0, e.RowIndex).Value
+        txtTLDate.Value = grdTLSearch.Item(1, e.RowIndex).Value
+        cmbSCategory.Text = grdTLSearch.Item(2, e.RowIndex).Value
+        cmbSName.Text = grdTLSearch.Item(3, e.RowIndex).Value
+        txtTLReason.Text = grdTLSearch.Item(4, e.RowIndex).Value
+        txtSUnitPrice.Text = grdTLSearch.Item(5, e.RowIndex).Value
+        txtSQty.Text = grdTLSearch.Item(6, e.RowIndex).Value
+        cmdTLSave.Text = "Edit"
+        cmdTLDelete.Enabled = True
+    End Sub
 End Class

@@ -88,6 +88,8 @@ Partial Class FrmSettings
         Me.cmdApply = New System.Windows.Forms.Button()
         Me.cmdOK = New System.Windows.Forms.Button()
         Me.ofdDatabase = New System.Windows.Forms.OpenFileDialog()
+        Me.cmbDBProvider = New System.Windows.Forms.ComboBox()
+        Me.Label10 = New System.Windows.Forms.Label()
         Me.tcSettings.SuspendLayout()
         Me.tpGeneral.SuspendLayout()
         Me.Guna2GroupBox4.SuspendLayout()
@@ -242,6 +244,8 @@ Partial Class FrmSettings
         '
         'tpDatabase
         '
+        Me.tpDatabase.Controls.Add(Me.Label10)
+        Me.tpDatabase.Controls.Add(Me.cmbDBProvider)
         Me.tpDatabase.Controls.Add(Me.txtDBPassword)
         Me.tpDatabase.Controls.Add(Me.Label7)
         Me.tpDatabase.Controls.Add(Me.txtDBLoc)
@@ -747,6 +751,24 @@ Partial Class FrmSettings
         Me.cmdOK.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText
         Me.cmdOK.UseVisualStyleBackColor = True
         '
+        'cmbDBProvider
+        '
+        Me.cmbDBProvider.FormattingEnabled = True
+        Me.cmbDBProvider.Items.AddRange(New Object() {"Microsoft.ACE.OLEDB.12.0"})
+        Me.cmbDBProvider.Location = New System.Drawing.Point(110, 60)
+        Me.cmbDBProvider.Name = "cmbDBProvider"
+        Me.cmbDBProvider.Size = New System.Drawing.Size(215, 21)
+        Me.cmbDBProvider.TabIndex = 9
+        '
+        'Label10
+        '
+        Me.Label10.AutoSize = True
+        Me.Label10.Location = New System.Drawing.Point(6, 63)
+        Me.Label10.Name = "Label10"
+        Me.Label10.Size = New System.Drawing.Size(98, 13)
+        Me.Label10.TabIndex = 10
+        Me.Label10.Text = "Database Provider:"
+        '
         'FrmSettings
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -850,4 +872,6 @@ Partial Class FrmSettings
     Friend WithEvents cmbBSCOMPort As ComboBox
     Friend WithEvents txtDBPassword As TextBox
     Friend WithEvents Label7 As Label
+    Friend WithEvents Label10 As Label
+    Friend WithEvents cmbDBProvider As ComboBox
 End Class
