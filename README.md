@@ -56,11 +56,15 @@
     </tr>
     <tr>
     <th scope="row">.NET Framework Version</th>
-    <td>4.6.1 or above runtime pack installed</td>
+    <td>4.6.1 or above runtime pack</td>
     </tr>
     <tr>
     <th scope="row">Database</th>
-    <td>Microsoft Office 2007 Database Engine or above installed</td>
+    <td>Microsoft Office 2007 Database Engine or above</td>
+    </tr>
+    <tr>
+    <th scope="row">Reporting</th>
+    <td>SAP Crystal Report Runtime Engine</td>
     </tr>
     </tbody>
     </table>
