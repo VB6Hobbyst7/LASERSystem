@@ -26,6 +26,13 @@
 <p>Local Database: Microsoft Office Access</p>
 <p>.NET framework: .NET framework version 4.6.1</p>
 
+<h4>Properties</h4>
+<p>Database Password: user (Note: All data in the database are sample data.)</p>
+<p>User Name (for Admins): Admin</p>
+<p>Password: Admin</p>
+<p>User Name (for Cashier): Cashier</p>
+<p>Password: Cashier</p>
+
 <h2>Requirements:</h2>
 <table aria-label="Hardware requirements" class="table table-sm">
     <thead>
